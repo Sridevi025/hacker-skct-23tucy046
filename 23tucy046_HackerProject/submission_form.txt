@@ -1,0 +1,10 @@
+Name: Sridevi
+Roll Number: 23tucy046
+Project Name: Sandbox Environment Builder
+Project Category: Cybersecurity / Network Scanning
+GitHub URL: https://github.com/Sridevi025/hacker-skct-23tucy046
+Total Commits: 7
+Tools Used: Kali Linux, Metasploitable2, Python, Nmap, GitHub
+
+One-line Summary:
+A Python-based port scanning tool using Nmap to identify open ports and services in a sandbox environment.
